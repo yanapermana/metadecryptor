@@ -20,6 +20,7 @@ See USAGE file.
 
 # Depedencies
 package: [python3, pip3]
+
 pip: [pyperclip, itertools, re, gmpy, fractions, binascii, base64]
 
 # Compatibility
@@ -27,4 +28,5 @@ All platform that have Python 3.
 
 # Contact Information
 Twitter: [@yansen1204](https://twitter.com/yansen1204)
+
 Email: kumpoter@gmail.com
