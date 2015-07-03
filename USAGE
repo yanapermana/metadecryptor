@@ -1,0 +1,321 @@
+# CORE
+
+python3 metadecryptor.py -hex 4b72697320626c616465732061726520757375616c6c79206e6172726f772077697468206120776964652c206173796d6d6574726963616c20626173652e
+
+'''
+Kris blades are usually narrow with a wide, asymmetrical base.
+'''
+
+python3 metadecryptor.py -b64 T24gT2N0b2JlciAyMDA5LCBVTkVTQ08gZGVzaWduYXRlZCBJbmRvbmVzaWFuIGJhdGlrIGFzIGEgTWFzdGVycGllY2Ugb2YgT3JhbCBhbmQgSW50YW5naWJsZSBIZXJpdGFnZSBvZiBIdW1hbml0eS4K
+
+'''
+On October 2009, UNESCO designated Indonesian batik as a Masterpiece of Oral and Intangible Heritage of Humanity.
+'''
+
+python3 metadecryptor.py -caesar "XQHVFR ghvljqdwhg Zdbdqj Nxolw, d vkdgrz sxsshw wkhdwhu dqg wkh ehvw nqrzq ri wkh Lqgrqhvldq zdbdqj, dv d Pdvwhuslhfh ri Rudo dqg Lqwdqjleoh Khulwdjh ri Kxpdqlwb rq 7 Qryhpehu 2003."
+
+'''
+unesco designated wayang kulit, a shadow puppet theater and the best known of the indonesian wayang, as a masterpiece of oral and intangible heritage of humanity on 7 november 2003.
+'''
+
+python3 metadecryptor.py -vigenere test/vigenere_cipher.txt
+
+'''
+Cipher:
+Adiz Avtzqeci Tmzubb wsa m Pmilqev halpqavtakuoi, lgouqdaf, kdmktsvmztsl, izr xoexghzr kkusitaaf. Vz wsa twbhdg ubalmmzhdad qz hce vmhsgohuqbo ox kaakulmd gxiwvos, krgdurdny i rcmmstugvtawz ca tzm ocicwxfg jf "stscmilpy" oid "uwydptsbuci" wabt hce Lcdwig eiovdnw. Bgfdny qe kddwtk qjnkqpsmev ba pz tzm roohwz at xoexghzr kkusicw izr vrlqrwxist uboedtuuznum. Pimifo Icmlv Emf DI, Lcdwig owdyzd xwd hce Ywhsmnemzh Xovm mby Cqxtsm Supacg (GUKE) oo Bdmfqclwg Bomk, Tzuhvif'a ocyetzqofifo ositjm. Rcm a lqys ce oie vzav wr Vpt 8, lpq gzclqab mekxabnittq tjr Ymdavn fihog cjgbhvnstkgds. Zm psqikmp o iuejqf jf lmoviiicqg aoj jdsvkavs Uzreiz qdpzmdg, dnutgrdny bts helpar jf lpq pjmtm, mb zlwkffjmwktoiiuix avczqzs ohsb ocplv nuby swbfwigk naf ohw Mzwbms umqcifm. Mtoej bts raj pq kjrcmp oo tzm Zooigvmz Khqauqvl Dincmalwdm, rhwzq vz cjmmhzd gvq ca tzm rwmsl lqgdgfa rcm a kbafzd-hzaumae kaakulmd, hce SKQ. Wi 1948 Tmzubb jgqzsy Msf Zsrmsv'e Qjmhcfwig Dincmalwdm vt Eizqcekbqf Pnadqfnilg, ivzrw pq onsaafsy if bts yenmxckmwvf ca tzm Yoiczmehzr uwydptwze oid tmoohe avfsmekbqr dn eifvzmsbuqvl tqazjgq. Pq kmolm m dvpwz ab ohw ktshiuix pvsaa at hojxtcbefmewn, afl bfzdakfsy okkuzgalqzu xhwuuqvl jmmqoigve gpcz ie hce Tmxcpsgd-Lvvbgbubnkq zqoxtawz, kciup isme xqdgo otaqfqev qz hce 1960k. Bgfdny'a tchokmjivlabk fzsmtfsy if i ofdmavmz krgaqqptawz wi 1952, wzmz vjmgaqlpad iohn wwzq goidt uzgeyix wi tzm Gbdtwl Wwigvwy. Vz aukqdoev bdsvtemzh rilp rshadm tcmmgvqg (xhwuuqvl uiehmalqab) vs sv mzoejvmhdvw ba dmikwz. Hpravs rdev qz 1954, xpsl whsm tow iszkk jqtjrw pug 42id tqdhcdsg, rfjm ugmbddw xawnofqzu. Vn avcizsl lqhzreqzsy tzif vds vmmhc wsa eidcalq; vds ewfvzr svp gjmw wfvzrk jqzdenmp vds vmmhc wsa mqxivmzhvl. Gv 10 Esktwunsm 2009, fgtxcrifo mb Dnlmdbzt uiydviyv, Nfdtaat Dmiem Ywiikbqf Bojlab Wrgez avdw iz cafakuog pmjxwx ahwxcby gv nscadn at ohw Jdwoikp scqejvysit xwd "hce sxboglavs kvy zm ion tjmmhzd." Sa at Haq 2012 i bfdvsbq azmtmd'g widt ion bwnafz tzm Tcpsw wr Zjrva ivdcz eaigd yzmbo Tmzubb a kbmhptgzk dvrvwz wa efiohzd.
+
+Kasiski Examination: 3 2 6 4 12 8 9 16 5 11 10 15 7 14 13 
+
+
+Attempting hack with key length 3 (64 possible keys)...
+Possible letters for letter 1 of the key: A L M E 
+Possible letters for letter 2 of the key: S N O C 
+Possible letters for letter 3 of the key: V I Z B 
+Attempting with key: ASV
+Attempting with key: ASI
+Attempting with key: ASZ
+Attempting with key: ASB
+Attempting with key: ANV
+Attempting with key: ANI
+Attempting with key: ANZ
+Attempting with key: ANB
+Attempting with key: AOV
+Attempting with key: AOI
+Attempting with key: AOZ
+Attempting with key: AOB
+Attempting with key: ACV
+Attempting with key: ACI
+Attempting with key: ACZ
+Attempting with key: ACB
+Attempting with key: LSV
+Attempting with key: LSI
+Attempting with key: LSZ
+Attempting with key: LSB
+Attempting with key: LNV
+Attempting with key: LNI
+Attempting with key: LNZ
+Attempting with key: LNB
+Attempting with key: LOV
+Attempting with key: LOI
+Attempting with key: LOZ
+Attempting with key: LOB
+Attempting with key: LCV
+Attempting with key: LCI
+Attempting with key: LCZ
+Attempting with key: LCB
+Attempting with key: MSV
+Attempting with key: MSI
+Attempting with key: MSZ
+Attempting with key: MSB
+Attempting with key: MNV
+Attempting with key: MNI
+Attempting with key: MNZ
+Attempting with key: MNB
+Attempting with key: MOV
+Attempting with key: MOI
+Attempting with key: MOZ
+Attempting with key: MOB
+Attempting with key: MCV
+Attempting with key: MCI
+Attempting with key: MCZ
+Attempting with key: MCB
+Attempting with key: ESV
+Attempting with key: ESI
+Attempting with key: ESZ
+Attempting with key: ESB
+Attempting with key: ENV
+Attempting with key: ENI
+Attempting with key: ENZ
+Attempting with key: ENB
+Attempting with key: EOV
+Attempting with key: EOI
+Attempting with key: EOZ
+Attempting with key: EOB
+Attempting with key: ECV
+Attempting with key: ECI
+Attempting with key: ECZ
+Attempting with key: ECB
+
+Attempting hack with key length 2 (16 possible keys)...
+Possible letters for letter 1 of the key: O A E Z 
+Possible letters for letter 2 of the key: M S I D 
+Attempting with key: OM
+Attempting with key: OS
+Attempting with key: OI
+Attempting with key: OD
+Attempting with key: AM
+Attempting with key: AS
+Attempting with key: AI
+Attempting with key: AD
+Attempting with key: EM
+Attempting with key: ES
+Attempting with key: EI
+Attempting with key: ED
+Attempting with key: ZM
+Attempting with key: ZS
+Attempting with key: ZI
+Attempting with key: ZD
+
+Attempting hack with key length 6 (4096 possible keys)...
+Possible letters for letter 1 of the key: A E O P 
+Possible letters for letter 2 of the key: S D G H 
+Possible letters for letter 3 of the key: I V X B 
+Possible letters for letter 4 of the key: M Z Q A 
+Possible letters for letter 5 of the key: O B Z A 
+Possible letters for letter 6 of the key: V I K Z 
+Attempting with key: ASIMOV
+Possible encryption hack with key ASIMOV:
+Alan Mathison Turing was a British mathematician, logician, cryptanalyst, and computer scientist. He was highly influential in the development of computer science, providing a formalisation of the con
+
+Enter D for done, or just press Enter to continue hacking:
+> D
+Alan Mathison Turing was a British mathematician, logician, cryptanalyst, and computer scientist. He was highly influential in the development of computer science, providing a formalisation of the concepts of "algorithm" and "computation" with the Turing machine. Turing is widely considered to be the father of computer science and artificial intelligence. During World War II, Turing worked for the Government Code and Cypher School (GCCS) at Bletchley Park, Britain's codebreaking centre. For a time he was head of Hut 8, the section responsible for German naval cryptanalysis. He devised a number of techniques for breaking German ciphers, including the method of the bombe, an electromechanical machine that could find settings for the Enigma machine. After the war he worked at the National Physical Laboratory, where he created one of the first designs for a stored-program computer, the ACE. In 1948 Turing joined Max Newman's Computing Laboratory at Manchester University, where he assisted in the development of the Manchester computers and became interested in mathematical biology. He wrote a paper on the chemical basis of morphogenesis, and predicted oscillating chemical reactions such as the Belousov-Zhabotinsky reaction, which were first observed in the 1960s. Turing's homosexuality resulted in a criminal prosecution in 1952, when homosexual acts were still illegal in the United Kingdom. He accepted treatment with female hormones (chemical castration) as an alternative to prison. Turing died in 1954, just over two weeks before his 42nd birthday, from cyanide poisoning. An inquest determined that his death was suicide; his mother and some others believed his death was accidental. On 10 September 2009, following an Internet campaign, British Prime Minister Gordon Brown made an official public apology on behalf of the British government for "the appalling way he was treated." As of May 2012 a private member's bill was before the House of Lords which would grant Turing a statutory pardon if enacted.
+'''
+
+python3 metadecryptor.py -affine test/affine_cipher.txt 
+
+'''
+Cipher:
+U&'<3dJ^Gjx'-3^MS'Sj0jxuj'G3'%j'<mMMjS'g{GjMMg9j{G'g"'gG'<3^MS'Sj<jguj'm'P^dm{'g{G3'%jMgjug{9'GPmG'gG'-m0'P^dm{LU'5&Mm{'_^xg{9
+
+Key: 2192
+
+Plaintext:
+"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human." -Alan Turing
+'''
+
+python3 metadecryptor.py -reverse 'aisenodnI ni ytiruces gnirac tuoba ,uoy dlot I fi tahW'
+
+'''
+What if I told you, about caring security in Indonesia
+'''
+
+python3 metadecryptor.py -bacon "BAAABABABAAABAAABBAABAABAAABAAABBAAAABBAABABBAAAAABAABBABAABAABAAABAAAABBABAABBAABAAAAAAAA"
+
+'''
+[1] slentengmaukeiogia
+[2] slentengmavkeiogia
+[3] slentengmaukejogja
+[4] slentengmavkejogja
+'''
+
+python3 metadecryptor.py -morse '- . --. .- .-.. / .-.. .- -.- .- / .-.. .- -.- .- / '
+
+'''
+tegallakalaka
+'''
+
+python3 metadecryptor.py -pediaphone "3 444 0 22 2 555 444 55 0 8 444 777 2 444 0 6 33 777 2 44"
+
+'''
+di balik tirai merah
+'''
+
+python3 metadecryptor.py -transpose test/transpose_cipher.txt
+
+'''
+Ciphertext: 
+Cb b rssti aieih rooaopbrtnsceee er es no npfgcwu  plri ch nitaalr eiuengiteehb(e1  hilincegeoamn fubehgtarndcstudmd nM eu eacBoltaeteeoinebcdkyremdteghn.aa2r81a condari fmps" tad   l t oisn sit u1rnd stara nvhn fsedbh ee,n  e necrg6  8nmisv l nc muiftegiitm tutmg cm shSs9fcie ebintcaets h  aihda cctrhe ele 1O7 aaoem waoaatdahretnhechaopnooeapece9etfncdbgsoeb uuteitgna.rteoh add e,D7c1Etnpneehtn beete" evecoal lsfmcrl iu1cifgo ai. sl1rchdnheev sh meBd ies e9t)nh,htcnoecplrrh ,ide hmtlme. pheaLem,toeinfgn t e9yce da' eN eMp a ffn Fc1o ge eohg dere.eec s nfap yox hla yon. lnrnsreaBoa t,e eitsw il ulpbdofgBRe bwlmprraio po  droB wtinue r Pieno nc ayieeto'lulcih sfnc  ownaSserbereiaSm-eaiah, nnrttgcC  maciiritvledastinideI  nn rms iehn tsigaBmuoetcetias rn
+
+Key: 10
+
+Plaintext: 
+Charles Babbage, FRS (26 December 1791 - 18 October 1871) was an English mathematician, philosopher, inventor and mechanical engineer who originated the concept of a programmable computer. Considered a "father of the computer", Babbage is credited with inventing the first mechanical computer that eventually led to more complex designs. Parts of his uncompleted mechanisms are on display in the London Science Museum. In 1991, a perfectly functioning difference engine was constructed from Babbage's original plans. Built to tolerances achievable in the 19th century, the success of the finished engine indicated that Babbage's machine would have worked. Nine years later, the Science Museum completed the printer Babbage had designed for the difference engine.
+'''
+
+# FACTORING
+
+python3 metadecryptor.py -vfactor 867863909873
+
+'''
+(p, q): (962959, 901247)
+'''
+
+python3 metadecryptor.py -trial 80780754611
+
+'''
+(p, q): (123457, 654323)
+'''
+
+python3 metadecryptor.py -euler 4183 
+
+'''
+(p, q): (47, 89)
+'''
+
+python3 metadecryptor.py -prho 5352499
+
+'''
+(p, q): (mpz(1237), 4327)
+'''
+
+python3 metadecryptor.py -fermat 360942546576826817
+
+'''
+(p, q): (mpz(558797867), mpz(645926851))
+'''
+
+python3 metadecryptor.py -dasilva 143
+
+'''
+(p, q): (mpz(13), 11)
+'''
+
+# STRING
+
+python3 metadecryptor.py -digit test/digit-lower-upper.txt
+
+'''
+4203293
+'''
+
+python3 metadecryptor.py -lower test/digit-lower-upper.txt
+
+'''
+aasdfdfasdfadnfrvnslddfdnfasdfandfasdnsdifsia
+'''
+
+python3 metadecryptor.py -upper test/digit-lower-upper.txt
+
+'''
+IWANFALS
+'''
+
+python3 metadecryptor.py -upperdigit test/digit-lower-upper.txt
+
+'''
+IW4A203N293FALS
+'''
+
+python3 metadecryptor.py -lowerdigit test/digit-lower-upper.txt
+
+'''
+aasdfdfasdf4adnf203rvnslddf293dnfasdfandfasdnsdifsia
+'''
+
+python3  metadecryptor.py -friedman "Rbl jvsveriepr jlbr jrdr brdl prex, krgz rbl svcld svirez exfdfex tzekr"
+
+'''
+Statistics:
+i 	n 	n-1 	n(n-1)
+r  	 12  	 11  	 132
+e  	 7  	 6  	 42
+l  	 5  	 4  	 20
+b  	 4  	 3  	 12
+d  	 4  	 3  	 12
+v  	 4  	 3  	 12
+j  	 3  	 2  	 6
+s  	 3  	 2  	 6
+x  	 3  	 2  	 6
+z  	 3  	 2  	 6
+f  	 2  	 1  	 2
+i  	 2  	 1  	 2
+k  	 2  	 1  	 2
+p  	 2  	 1  	 2
+c  	 1  	 0  	 0
+g  	 1  	 0  	 0
+t  	 1  	 0  	 0
+a  	 0  	 -1  	 0
+h  	 0  	 -1  	 0
+m  	 0  	 -1  	 0
+n  	 0  	 -1  	 0
+o  	 0  	 -1  	 0
+q  	 0  	 -1  	 0
+u  	 0  	 -1  	 0
+w  	 0  	 -1  	 0
+y  	 0  	 -1  	 0
+ 	 59  	  	 262
+
+Total character: 71
+F: 0.07656341320864991
+Type: Mono-Alphabetical
+Key Length: 0.7465981396013887 ~ 1
+
+'''
+
+# MODERN
+
+python3 metadecryptor.py -checkRSA twitter.com
+                                           
+'''
+depth=1 C = US, O = Symantec Corporation, OU = Symantec Trust Network, CN = Symantec Class 3 EV SSL CA - G3
+verify error:num=20:unable to get local issuer certificate
+verify return:0
+writing RSA key
+
+Site: twitter.com
+Status: It's OK
+'''
+
+# CONVERTER
+python3 metadecryptor.py -alpha2num 'math'
+
+'''
+13 1 20 8
+'''
+
+python3 metadecryptor.py -num2alpha '13 1 20 8'
+
+'''
+m a t h
+'''
