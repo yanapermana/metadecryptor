@@ -1,5 +1,7 @@
 The Metadecryptor is released under a BSD-style license. See COPYING for more details.
+
 The latest version of this software is available from: https://www.kriptanalis.com
+
 New bugs and feature requests, questions and suggestions can be sent to kumpoter@gmail.com.
 
 # What is Metadecryptor?
