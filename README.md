@@ -1,6 +1,6 @@
 The Metadecryptor is released under a BSD-style license. See COPYING for more details.
 
-The latest version of this software is available from: https://www.kriptanalis.com
+The latest version of this software is available from: www.kriptanalis.com
 
 New bugs and feature requests, questions and suggestions can be sent to kumpoter@gmail.com.
 
@@ -30,3 +30,5 @@ All platform that have Python 3.
 Twitter: [@yansen1204](https://twitter.com/yansen1204)
 
 Email: kumpoter@gmail.com
+
+## If this tool useful, do not forget to give the star
