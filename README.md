@@ -19,7 +19,7 @@ See USAGE file.
 1.0
 
 # Depedencies
-package: [python3, pip3]
+package: [python3, pip3, openSSL]
 
 pip: [pyperclip, itertools, re, gmpy, fractions, binascii, base64]
 
